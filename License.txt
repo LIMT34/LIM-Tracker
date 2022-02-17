@@ -1,0 +1,44 @@
+﻿End-User License Agreement
+
+IMPORTANT: CAREFULLY READ ALL THE TERMS AND CONDITIONS OF THIS LICENSE AGREEMENT BELOW BEFORE USING THE SOFTWARE.
+
+THIS IS A VALID AND LEGALLY ENFORCEABLE AGREEMENT BETWEEN YOU (EITHER AN INDIVIDUAL OR A SINGLE ENTITY) AND OLYMPUS CORPORATION ("OLYMPUS")
+
+BY INSTALLING, COPYING, DOWNLOADING, ACCESSING OR OTHERWISE USING THE SOFTWARE, YOU AGREE TO BE BOUND BY THE TERMS AND CONDITIONS OF THIS AGREEMENT.
+
+1. Definition
+-	"Software" shall mean the LIM Tracker and the documents accompanying to the Software. All titles and rights to the Software are owned by OLYMPUS and its licensors. The Software is protected by copyright laws and international copyright treaties, as well as other intellectual property laws and treaties.
+-	"Agreement" shall mean this End-User License Agreement.
+-	"You" or "you" shall mean a person or an entity who is licensed to use the Software in accordance with this Agreement.
+
+2. Terms and Conditions of Use
+-	Subject to all of the terms and conditions of this Agreement, OLYMPUS grants to you a non-exclusive, non-assignable copyright license to use the Software. Except as expressly provided herein, no license or right is granted to you directly or by implication, inducement, estoppel or otherwise, specifically OLYMPUS and its licensor do not grant any express or implied right to you under patents, copyrights, trademarks, or trade secret information of OLYMPUS or its licensor.
+-	This Software may be installed and used on any number of computers.
+-	You may use this Software, free of charge, for any purpose except for profit or commercial purpose.
+-	You may not alter, erase or deface any trademark, warning, copyright and other notice on the Software.
+-	Unless enforcement is prohibited by applicable law, you may not analyze, decompile, disassemble, derive information from, or otherwise reverse engineer the Software.
+-	You may not transform, adapt or modify, make a derivative work from a whole or part of the Software without OLYMPUS' prior approval.
+-	You agree that the Software is subject to the export control laws and regulations of Japan, U.S.A. and other competent countries. You shall follow any such applicable export control laws and regulations of Japan, U.S.A. and other countries.
+
+3. Disclaimer of Liability
+-	THE SOFTWARE IS PROVIDED TO YOU "AS IS" WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, WARRANTIES OF NON-INFRINGEMENT, MERCHANTABILITY, AND/OR FITNESS FOR A PARTICULAR PURPOSE, EXCEPT TO THE EXTENT THAT THESE DISCLAIMERS ARE HELD TO BE INVALID.
+-	TO THE EXTENT NOT PROHIBITED BY LAW, IN NO EVENT NEITHER OLYMPUS NOR ITS LICENSORS SHALL BE HELD TO ANY LIABILITY FOR ANY DAMAGES SUFFERED OR INCURRED BY YOU OR ANY OTHER THIRD PARTY (INCLUDING, BUT NOT LIMITED TO, GENERAL, SPECIAL, DIRECT, INDIRECT, CONSEQUENTIAL OR INCIDENTAL DAMAGES INCLUDING DAMAGES FOR LOSS OF BUSINESS PROFITS, BUSINESS INTERRUPTION, LOSS OF BUSINESS INFORMATION AND THE LIKE), ARISING OUT OF OR IN CONNECTION WITH THE DELIVERY, USE OR PERFORMANCE OF THE SOFTWARE, EVEN IF OLYMPUS HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. 
+
+4. Third Party Software
+-	The Software includes (i) some Open Source Software; and (ii) other software whose source code is intentionally published (collectively "OSS"). OSS included in the Software shall be licensed and distributed to you subject to the terms and conditions applied to such OSS. Any part of this Agreement does not restrict, limit, change or alter your rights and obligations given or imposed by such terms and conditions of the OSS licenses. The warranty, indemnity and support for the Software under this Agreement shall not be applied to the OSS.
+-	For more information about the OSS incorporated into this Software and the terms and conditions of license agreement applied to each OSS, please look up the following file.
+    Acknowledgment.txt
+
+5. Support
+-	OLYMPUS will not provide any repair or maintenance service and any other technical or non-technical support to the User 
+-	OLYMPUS shall reserve the right to modify or enhance the Software for debugging, upgrading or any other purpose at its own discretion.
+
+6. Changes to the Existing Agreement
+-	OLYMPUS shall reserve the right to modify, supple, or enhance the terms and conditions of this Agreement at its own discretion. The current version shall supersede and replace all previous versions of this Agreement.
+
+7. Termination of this Agreement
+-	You may terminate this Agreement by ceasing the use of the Software, destroying the Software and notifying OLYMPUS of such termination.
+-	Without prejudice to any other rights, OLYMPUS may terminate this Agreement if you fail to comply with the terms and conditions of this Agreement.
+
+8. Governing Law and Venue
+-	This Agreement shall be governed by, performed under and construed in accordance with the laws of Japan and with regard to any related legal action, you agree to exclusive jurisdiction and venue in the district courts in Tokyo, Japan.

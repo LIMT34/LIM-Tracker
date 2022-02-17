@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Class-Path: ./opencv-430.jar
+Plugin-Class: CellTrack.PluginSegmentation2
+

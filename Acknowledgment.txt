@@ -1,0 +1,7 @@
+﻿Part of this software includes the following open source software.
+-	SWT (https://www.eclipse.org/swt/)
+-	Eclipse nebula (https://www.eclipse.org/nebula/)
+-	OpenCV (https://opencv.org/)
+-	ITK (https://itk.org/)
+-	ImgLib2 (https://imagej.net/ImgLib2)
+-	ZeroMQ (https://zeromq.org/)
