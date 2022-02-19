@@ -9,7 +9,7 @@ LIM Tracker is a cell tracking software that has been developed for simple opera
 - Recognition functions with deep learning are also available.
 
 ### Demo movie
--  **[Link-type Tracking](https://drive.google.com/file/d/1VZNjDEPICFr8vocb8cClinyid2M0bRWT/view?usp=sharing)**
+-  **[Cell Recognition (non-DL) & Link-type Tracking](https://drive.google.com/file/d/1VZNjDEPICFr8vocb8cClinyid2M0bRWT/view?usp=sharing)**
 -  **[Sequential Search-type Tracking](https://drive.google.com/file/d/1M3hhU7BfqP3rsS9uwX0TKAyXJh8xDmJc/view?usp=sharing)** 
 -  **[DL Training](https://drive.google.com/file/d/1SUGZhh0dgKrMNT3kcRc-NZeJpNdFlBfk/view?usp=sharing)**
 -  **[DL Recognition](https://drive.google.com/file/d/1uROlW39mhgs8N0Owb-ot7Kt3i8aNXIxQ/view?usp=sharing)**
