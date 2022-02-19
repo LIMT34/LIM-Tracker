@@ -14,7 +14,7 @@ LIM Tracker is a cell tracking software that has been developed for simple opera
 -  **[DL Training](https://drive.google.com/file/d/1SUGZhh0dgKrMNT3kcRc-NZeJpNdFlBfk/view?usp=sharing)**
 -  **[DL Recognition](https://drive.google.com/file/d/1uROlW39mhgs8N0Owb-ot7Kt3i8aNXIxQ/view?usp=sharing)**
 <br>※The DL Training & DL Recognition movies use the ISBI Cell Tracking Challenge [PhC-C2DH-U373](http://celltrackingchallenge.net/2d-datasets/) dataset.
-<br>
+
 
 ### Fiji plugin installation (Windows10)
 
@@ -39,16 +39,10 @@ LIM Tracker is a cell tracking software that has been developed for simple opera
 
 1. Launch Fiji and load the image file you want to track.
 2. Select "Plugins/Tracking/LIM Tracker Plugin" from the Fiji menu. This will launch the plugin.
-- You cannot have multiple plugins running at the same time. Since the port number is used to monitor multiple launches, a security warning may appear when the plugin is first launched, but please ignore it.
-- As for multi-channel (composite) images, up to 5 channels are supported.
-- This plugin does not support the following image formats.
-```bash
-- *.RAW, *.ZIP, and *.TextImage.
-- 24bit (RGB) image, 32bit image
-- Tiff images with "slice labels" set as metadata
-- Images loaded as Virtual Stack.
-```
-<br>
+
+### How to use LIM Tracker
+- #### See **[Quickstart Manual](Manual.pdf)** for details.
+
   
 ### Deep learning recognition service setup instructions
 This software is equipped with a plugin mechanism to work with reference implementations (Python programs) of various deep learning recognition algorithms available on the web. 
@@ -60,16 +54,10 @@ This software can work in conjunction with the following implementations by sett
 - [Detectron2 MaskR-CNN](https://github.com/facebookresearch/detectron2)
 
 To use this function, nVIDIA GPU is required. 
-<br>This software has been tested on **Windows10 or Ubuntu18.04 + nVIDIA GeForce RTX 2080ti**.  
-**※Please note that it may not work depending on your PC environment.**
-<br>
+
 - #### See **[setup instructions](README_DL.md)** for details.
 
 ![DLRecognition](Assets/DLRecognition.png)
-
-
-### How to use LIM Tracker
-- #### See **[Quickstart Manual](Manual.pdf)** for details.
 
 ### Test dataset
 -  **[Case1](https://drive.google.com/file/d/1riAsEq6tMkKIP_tMu40O4R5rkenBEqPQ/view?usp=sharing)** 
@@ -102,3 +90,6 @@ This software work in conjunction with the following deep learning algorithms.
 - YOLACT++ (https://github.com/dbolya/yolact)
 - Matterport MaskR-CNN (https://github.com/matterport/Mask_RCNN)
 - Detectron2 MaskR-CNN (https://github.com/facebookresearch/detectron2)
+- 
+### Citation
+Aragaki, H., Ogoh, K., Kondo, Y. & Aoki, K. LIM Tracker: a software package for cell tracking and analysis with advanced interactivity. Sci Rep 12, 2702 (2022). https://doi.org/10.1038/s41598-022-06269-6
