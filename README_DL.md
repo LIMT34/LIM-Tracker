@@ -3,6 +3,7 @@
 
 To use this function, nVIDIA GPU is required.
 <br>This software has been tested on Windows10 or Ubuntu18.04 + nVIDIA GeForce RTX 2080ti.
+<br>※Please note that it may not work depending on your GPU. For CUDA and other library programs, please use the version compatible with your GPU environment.
 
 1. Copy the LIMTrackService folder downloaded from this repository to **directly under the C drive** (e.g., C:/LIMTrackService) or **the home directory** (e.g., ${HOME}/LIMTrackService).
 2. Download and install [CUDA10.0](https://developer.nvidia.com/cuda-10.0-download-archive) & [cuDNN](https://developer.nvidia.com/rdp/cudnn-archive).
