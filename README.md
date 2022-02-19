@@ -84,12 +84,12 @@ LIM Tracker is powered by the following open source programs.
 - ImgLib2 (https://imagej.net/ImgLib2)
 - ZeroMQ (https://zeromq.org/)
 
-This software work in conjunction with the following deep learning algorithms. 
+This software work in conjunction with the following reference implementations. 
 - StarDist (https://github.com/stardist/stardist)
 - Cellpose (https://github.com/MouseLand/cellpose)
 - YOLACT++ (https://github.com/dbolya/yolact)
 - Matterport MaskR-CNN (https://github.com/matterport/Mask_RCNN)
 - Detectron2 MaskR-CNN (https://github.com/facebookresearch/detectron2)
-- 
+
 ### Citation
 Aragaki, H., Ogoh, K., Kondo, Y. & Aoki, K. LIM Tracker: a software package for cell tracking and analysis with advanced interactivity. Sci Rep 12, 2702 (2022). https://doi.org/10.1038/s41598-022-06269-6
