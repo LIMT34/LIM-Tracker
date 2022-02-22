@@ -129,7 +129,7 @@ $ pip install tensorflow-gpu==1.13.1 "stardist[tf1]" packaging zmq psutil natsor
 ```bash
 $ conda create -n cellpose python=3.7
 $ conda activate cellpose 
-$ conda install pytorch==1.3 cudatoolkit=10.1 -c pytorch
+$ conda install pytorch==1.6 cudatoolkit=10.1 -c pytorch
 $ pip install natsort opencv-python-headless tifffile tqdm scipy numba zmq scikit-image==0.16.2 psutil numpy
 ```
 
