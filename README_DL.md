@@ -141,6 +141,8 @@ $ pip install natsort opencv-python-headless tifffile tqdm scipy numba zmq sciki
 $ conda create -n matterport python=3.7
 $ conda activate matterport
 $ pip install opencv-python==3.4.2.17 tensorflow-gpu==1.13.1 keras==2.1.6 imgaug==0.2.6 IPython==6.4.0 h5py==2.8.0 psutil==5.6.7 zmq matplotlib==3.2.2 scipy==1.4.1 scikit-image==0.16.2
+$ python ~/LIMTrackService/matterport/fix_model_ubuntu.py
+
 
 ```
 
