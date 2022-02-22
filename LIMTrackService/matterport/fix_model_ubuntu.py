@@ -18,6 +18,3 @@ data_lines = data_lines.replace("max_queue_size=100,", "max_queue_size=2,")
 
 with open(file_name, mode="w") as f:
     f.write(data_lines)
-
-#python ~/LIMTrackService/matterport/fix_model_ubuntu.py
-
