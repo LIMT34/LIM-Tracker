@@ -9,11 +9,30 @@ LIM Tracker is a cell tracking software that has been developed for simple opera
 - Recognition functions with deep learning are also available.
 
 ### Demo movie
--  **[Cell Recognition (non-DL) & Link-type Tracking](https://drive.google.com/file/d/1VZNjDEPICFr8vocb8cClinyid2M0bRWT/view?usp=sharing)**
--  **[Sequential Search-type Tracking](https://drive.google.com/file/d/1M3hhU7BfqP3rsS9uwX0TKAyXJh8xDmJc/view?usp=sharing)** 
--  **[DL Training](https://drive.google.com/file/d/1SUGZhh0dgKrMNT3kcRc-NZeJpNdFlBfk/view?usp=sharing)**
--  **[DL Recognition](https://drive.google.com/file/d/1uROlW39mhgs8N0Owb-ot7Kt3i8aNXIxQ/view?usp=sharing)**
+-  **Cell Recognition (non-DL) & Link-type Tracking**
+
+https://user-images.githubusercontent.com/91453257/155270340-fb6f8256-890d-44c7-b6f6-b5449fd19ec0.mp4
+
+<br>
+
+-  **Sequential Search-type Tracking** 
+
+https://user-images.githubusercontent.com/91453257/155270569-d07915ce-4822-4213-85ae-d6fb933a29cd.mp4
+
+<br>
+
+-  **DL Training**
+
+https://user-images.githubusercontent.com/91453257/155271291-77915bbc-ac19-4be4-9f58-fd08934ddf91.mp4
+
+<br>
+
+-  **DL Recognition**
+
+https://user-images.githubusercontent.com/91453257/155271339-6344aeba-a2a7-4590-a181-07e74d5fcefa.mp4
+
 <br>※The DL Training & DL Recognition movies use the ISBI Cell Tracking Challenge [PhC-C2DH-U373](http://celltrackingchallenge.net/2d-datasets/) dataset.
+<br>
 
 
 ### Fiji plugin installation (Windows10)
