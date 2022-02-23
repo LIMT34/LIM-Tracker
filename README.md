@@ -53,7 +53,6 @@ https://user-images.githubusercontent.com/91453257/155271339-6344aeba-a2a7-4590-
 ```
 2. Download [libopencv_core.so.4.3](https://drive.google.com/file/d/1cDnkx-b531rQ5mhB8F5PU9DAtuYr3cF1/view?usp=sharing) and [libopencv_imgproc.so.4.3](https://drive.google.com/file/d/1Yrz5hvsG2Seo_nxAORRxvIooSSGU9L8R/view?usp=sharing), and copy into Fiji's library folder (e.g., ${HOME}/Fiji.app/lib/linux64).
 
-<br>※Please note that the recognition and tracking speed of the Ubuntu version is inferior to that of the Windows 10 version (optimization work is currently underway).
 
 ### How to launch the Fiji plugin
 
