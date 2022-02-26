@@ -78,19 +78,20 @@ To use this function, nVIDIA GPU is required.
 
 ![DLRecognition](Assets/DLRecognition.png)
 
+### Extend functionality through plug-in mechanisms
+
+-  A plugin mechanism is provided for the recognition function, and users can switch to their algorithm. Examples of plugin implementations of the recognition function using OpenCV are available in the [DetectPlugin](DetectPlugin) folder.
+
+-  A plugin mechanism is provided to work with reference implementations of various deep learning recognition algorithms written in Python. Examples of plugin implementations are available in the [DLLinkPlugin](DLLinkPlugin) folder.
+
+-  A plugin mechanism is provided for users to output and use the data analyzed by this software freely. Examples of plugin implementations are available in the [DataSavePlugin](DataSavePlugin) folder.
+
 ### Test dataset
--  **[Case1](https://drive.google.com/file/d/1riAsEq6tMkKIP_tMu40O4R5rkenBEqPQ/view?usp=sharing)** 
--  **[Case2](https://drive.google.com/file/d/18el_wbfBsBPE9qeXDsXCer2gh9tWC0cm/view?usp=sharing)** 
--  **[Case3](https://drive.google.com/file/d/1MiJp4h3hsoduLei46g4zvW6N5Ktc1bTG/view?usp=sharing)** 
+Test images, project files, and GT images can be obtained from the following links.
+-  [Case1](https://drive.google.com/file/d/1riAsEq6tMkKIP_tMu40O4R5rkenBEqPQ/view?usp=sharing)
+-  [Case2](https://drive.google.com/file/d/18el_wbfBsBPE9qeXDsXCer2gh9tWC0cm/view?usp=sharing)
+-  [Case3](https://drive.google.com/file/d/1MiJp4h3hsoduLei46g4zvW6N5Ktc1bTG/view?usp=sharing)
 	
-
-### How to create a LIM Tracker plugin
-
--  A plugin mechanism is provided for the recognition function, and users can switch to their algorithm. Examples of plugin implementations of the recognition function using OpenCV are available in the **[DetectPlugin](DetectPlugin)** folder.
-
--  A plugin mechanism is provided to work with reference implementations of various deep learning recognition algorithms written in Python. Examples of plugin implementations are available in the **[DLLinkPlugin](DLLinkPlugin)** folder.
-
--  A plugin mechanism is provided for users to output and use the data analyzed by this software freely. Examples of plugin implementations are available in the **[DataSavePlugin](DataSavePlugin)** folder.
 
 
 ### Acknowledgments
