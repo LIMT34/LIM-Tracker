@@ -9,30 +9,9 @@ LIM Tracker is a cell tracking software that has been developed for simple opera
 - Recognition functions with deep learning are also available.
 
 ### Demo movie
--  **Cell Recognition (non-DL) & Link-type Tracking**
+-  **[Cell Recognition (non-DL) & Link-type Tracking](https://drive.google.com/file/d/1VZNjDEPICFr8vocb8cClinyid2M0bRWT/view?usp=sharing)**
+-  **[Sequential Search-type Tracking](https://drive.google.com/file/d/1M3hhU7BfqP3rsS9uwX0TKAyXJh8xDmJc/view?usp=sharing)** 
 
-https://user-images.githubusercontent.com/91453257/155270340-fb6f8256-890d-44c7-b6f6-b5449fd19ec0.mp4
-
-<br>
-
--  **Sequential Search-type Tracking** 
-
-https://user-images.githubusercontent.com/91453257/155270569-d07915ce-4822-4213-85ae-d6fb933a29cd.mp4
-
-<br>
-
--  **DL Training**
-
-https://user-images.githubusercontent.com/91453257/155271291-77915bbc-ac19-4be4-9f58-fd08934ddf91.mp4
-
-<br>
-
--  **DL Recognition**
-
-https://user-images.githubusercontent.com/91453257/155271339-6344aeba-a2a7-4590-a181-07e74d5fcefa.mp4
-
-<br>※The DL Training & DL Recognition movies use the ISBI Cell Tracking Challenge [PhC-C2DH-U373](http://celltrackingchallenge.net/2d-datasets/) dataset.
-<br>
 
 
 ### Fiji plugin installation (Windows10)
@@ -42,8 +21,7 @@ https://user-images.githubusercontent.com/91453257/155271339-6344aeba-a2a7-4590-
 - LIMTrackerPluginExt
 - LIMTrackerPlugin_.jar
 ```
-2. Download [VC_redist.x64.exe (VisualC++ redistribution package)](https://aka.ms/vs/17/release/vc_redist.x64.exe) and double-click VC_redist.x64.exe to install it with default settings.
-
+2. Download [VC_redist.x64.exe (VisualC++ redistribution package)](https://aka.ms/vs/17/release/vc_redist.x64.exe) and double-click VC_redist.x64.exe to install it with default settings (If a DLL file is missing and an error occurs, please download and install [VisualC++ Redistributable Packages for Visual Studio 2013](https://microsoft.com/en-US/download/details.aspx?id=40784)).
 ### Fiji plugin installation (Ubuntu18.04) 
 
 1. Install Fiji itself, and copy the following folders & files contained in the FijiPlugin_linux/plugins folder downloaded from this repository into the Fiji plugin folder (e.g., ${HOME}/Fiji.app/plugins ).
@@ -76,7 +54,7 @@ To use this function, nVIDIA GPU is required.
 
 - #### See **[setup instructions](README_DL.md)** for details.
 
-![DLRecognition](Assets/DLRecognition.png)
+
 
 ### Extend functionality through plug-in mechanisms
 
