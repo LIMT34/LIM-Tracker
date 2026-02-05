@@ -12,19 +12,15 @@ LIM Tracker is a cell tracking software that has been developed for simple opera
 -  **[Cell Recognition (non-DL) & Link-type Tracking](https://user-images.githubusercontent.com/91453257/167635380-71d12d78-d080-4fed-9477-3e7a60e44e2e.mp4)**
 -  **[Sequential Search-type Tracking](https://user-images.githubusercontent.com/91453257/167635404-9649f68f-af31-4053-9c07-96bce9b9f4bd.mp4)** 
 
-### Fiji plugin installation (Windows10)
-1. Install Fiji. Due to plugin compatibility issues in the latest release, please install an older version of Fiji via the link below.
-[https://downloads.imagej.net/fiji/archive/20250514-1117/fiji-win64.zip](https://downloads.imagej.net/fiji/archive/20250514-1117/fiji-win64.zip)
-2. Copy the following folders & files contained in the FijiPlugin_win/plugins folder downloaded from this repository into the Fiji plugin folder (e.g., C:/Fiji.app/plugins ).
+### Fiji plugin installation (Windows)
+1. Install Fiji, and copy the following folders & files contained in the FijiPlugin_win/plugins folder downloaded from this repository into the Fiji plugin folder (e.g., C:/Fiji.app/plugins ).
 ```bash
 - LIMTrackerPluginExt
 - LIMTrackerPlugin_.jar
 ```
-3. Download [VC_redist.x64.exe (VisualC++ redistribution package)](https://aka.ms/vs/17/release/vc_redist.x64.exe) and double-click VC_redist.x64.exe to install it with default settings (If a DLL file is missing and an error occurs, please download and install [VisualC++ Redistributable Packages for Visual Studio 2013](https://microsoft.com/en-US/download/details.aspx?id=40784)).
+2. Download [VC_redist.x64.exe (VisualC++ redistribution package)](https://aka.ms/vs/17/release/vc_redist.x64.exe) and double-click VC_redist.x64.exe to install it with default settings. If you encounter a "missing DLL" error, please download and install the [VisualC++ Redistributable Packages for Visual Studio 2013](https://microsoft.com/en-US/download/details.aspx?id=40784).
 ### Fiji plugin installation (Ubuntu18.04) 
-1. Install Fiji. Due to plugin compatibility issues in the latest release, please install an older version of Fiji via the link below.
-[https://downloads.imagej.net/fiji/archive/20250514-1117/fiji-linux64.zip](https://downloads.imagej.net/fiji/archive/20250514-1117/fiji-linux64.zip)
-2. Copy the following folders & files contained in the FijiPlugin_linux/plugins folder downloaded from this repository into the Fiji plugin folder (e.g., ${HOME}/Fiji.app/plugins ).
+1. Install Fiji, and copy the following folders & files contained in the FijiPlugin_linux/plugins folder downloaded from this repository into the Fiji plugin folder (e.g., ${HOME}/Fiji.app/plugins ).
 ```bash
 - LIMTrackerPluginExt
 - LIMTrackerPlugin_.jar
