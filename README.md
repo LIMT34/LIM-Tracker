@@ -25,7 +25,7 @@ LIM Tracker is a cell tracking software that has been developed for simple opera
 - LIMTrackerPluginExt
 - LIMTrackerPlugin_.jar
 ```
-3. Download [libopencv_core.so.4.3](https://drive.google.com/file/d/1cDnkx-b531rQ5mhB8F5PU9DAtuYr3cF1/view?usp=sharing) and [libopencv_imgproc.so.4.3](https://drive.google.com/file/d/1Yrz5hvsG2Seo_nxAORRxvIooSSGU9L8R/view?usp=sharing), and copy into Fiji's library folder (e.g., ${HOME}/Fiji.app/lib/linux64).
+2. Download [libopencv_core.so.4.3](https://drive.google.com/file/d/1cDnkx-b531rQ5mhB8F5PU9DAtuYr3cF1/view?usp=sharing) and [libopencv_imgproc.so.4.3](https://drive.google.com/file/d/1Yrz5hvsG2Seo_nxAORRxvIooSSGU9L8R/view?usp=sharing), and copy into Fiji's library folder (e.g., ${HOME}/Fiji.app/lib/linux64).
 
 
 ### How to launch the Fiji plugin
